@@ -52,4 +52,4 @@ echo "/dev/md0p4 /mnt/part_4 ext4 defaults 0 0" | tee -a /etc/fstab
 echo "/dev/md0p5 /mnt/part_5 ext4 defaults 0 0" | tee -a /etc/fstab
 
 # Перезагрузка ВМ
-shutdown -r now
+# shutdown -r now
